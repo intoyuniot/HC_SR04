@@ -1,0 +1,17 @@
+{
+    "name": "HC_SR04",
+    "version": "1.0.0",
+    "keywords": "HC_SR04",
+    "description": "HC_SR04超声波测距模块库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/HC_SR04.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
